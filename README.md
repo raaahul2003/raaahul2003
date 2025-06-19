@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Rahul Raj C P</h1>
-<h3 align="center">Flutter Developer | UI/UX Enthusiast | Firebase Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Creative+Flutter+Developer;Passionate+Tech+Explorer;Problem+Solver+with+Purpose" alt="Typing SVG" />
@@ -7,18 +6,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
 
 
 ### 📌 Featured Projects
