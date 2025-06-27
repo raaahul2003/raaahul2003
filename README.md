@@ -20,7 +20,7 @@
 <p>
   <a href="https://www.linkedin.com/in/raaahul"><img src="https://img.shields.io/badge/-Rahul%20Raj%20C%20P-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raaahul"/></a>
   <a href="mailto:rahulrajofficial1@gmail.com"><img src="https://img.shields.io/badge/-raj319720@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/rahulrajcp"><img src="https://img.shields.io/badge/-rahulrajcp-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://github.com/rahulrajcp](https://github.com/raaahul2003)"><img src="https://img.shields.io/badge/-rahulrajcp-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
