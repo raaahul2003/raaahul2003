@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rahul Raj C P</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Creative+Fullstack+Developer;Passionate+Tech+Explorer;Problem+Solver+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Creative+Fullstack+Developer;Passionate+Tech+Explorer;Problem+Solver+with+Purpose" alt="Typing SVG" />
 </p>
 
 ---
