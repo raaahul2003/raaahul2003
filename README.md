@@ -5,16 +5,6 @@
 </p>
 
 ---
-
-
-
-### 📌 Featured Projects
-
-- 🚀 [**Expense Tracker App**](https://github.com/rahulrajcp/expense-tracker)  
-  _Cross-platform app with Firebase backend, modern UI, analytics, and cloud sync_
-
-
-
 ### 🧑‍💼 Let's Connect
 
 <p>
